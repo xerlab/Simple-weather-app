@@ -30,5 +30,4 @@ npm run build
 
 
 ## How it works
-
-[Screencast from 2024-01-21 21-52-27.webm](https://github.com/xerlab/weatherapp/assets/154817622/0bf04dc6-57d2-46f1-bb86-48c987917269)
+[Screencast from 2024-01-21 21-53-05.webm](https://github.com/xerlab/weatherapp/assets/154817622/1f7e93d4-fcac-44d5-a41c-079c55dd40fc)
