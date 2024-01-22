@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+##how it works 
+[Screencast from 2024-01-21 21-53-05.webm](https://github.com/xerlab/weatherapp/assets/154817622/1f7e93d4-fcac-44d5-a41c-079c55dd40fc)
+
